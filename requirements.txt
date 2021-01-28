@@ -1,0 +1,22 @@
+# jupyet modules
+#
+ipywidgets==7.5.1
+jupyterlab==2.2.9
+#
+# additional python modules
+bqplot==0.12.19
+matplotlib==3.3.1
+numpy==1.19.3
+pandas==1.2.1
+scipy==1.5.1
+scikit-learn
+#
+stanfordnlp
+torch
+#
+transformers
+neuralcoref
+spacy
+#
+nest_asyncio
+rasa
