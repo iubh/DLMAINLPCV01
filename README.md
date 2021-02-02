@@ -11,7 +11,7 @@ Table of content
 
 |task | chapter |  library | notebook|     |
 |-----|---------|----------|---------|-----|
-|regular expressions| 1.2 | [spaCy](https://spacy.io/)| [notebook](../notebooks/nlp_1p2_regexp.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UO0zE0laP3Xseqw-VE-_aqMz0EUPsTEJ?usp=sharing)|
+|regular expressions| 1.2 | [spaCy](https://spacy.io/)| [notebook](notebooks/nlp_1p2_regexp.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UO0zE0laP3Xseqw-VE-_aqMz0EUPsTEJ?usp=sharing)|
 |word / sentence vectors| 1.3 | | [notebook](../)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 |word sense disambiguation| 1.5 | [nltk](https://www.nltk.org/)| [notebook](../notebooks/nlp_1-5_word_sense_disambiguation.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d-mtm2hpSY0gA-NmVROStmcdJECOxLW0?usp=sharing)|
 |tokenization <br> POS tagging <br> NER| 1.6 |[spaCy](https://spacy.io/)| [notebook](../notebooks/nlp_1p6_spacy_1.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YVEkTE4G9s5gMGNbdwVXz76BRGDx3UDV?usp=sharing)|
