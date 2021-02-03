@@ -25,7 +25,7 @@ Table of content
 
 |task | chapter |  library | notebook|     |
 |-----|---------|----------|---------|-----|
-|basic samples| 3 | [OpenCV](https://opencv.org/)| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|basic samples| 3 | [OpenCV](https://opencv.org/)| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ItoJfGH4nBWyZZ8sprArej9yG3wYd9y2?usp=sharing)|
 |camera calibration| 3.4 |[OpenCV](https://opencv.org/)| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 |3D reconstuction| 3.5 |[OpenCV](https://opencv.org/) | link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ukGKzoTOITXs9gH3df2nyBytxW2jNkgZ?usp=sharing)|
 |Filters| 3.6 |convolutionfilters| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1phtG4LOivvJd7AZbpZnBXECn8hmCyScy?usp=sharing)|
