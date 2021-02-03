@@ -27,8 +27,8 @@ Table of content
 |-----|---------|----------|---------|-----|
 |basic samples| 3 | [OpenCV](https://opencv.org/)| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 |camera calibration| 3.4 |[OpenCV](https://opencv.org/)| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
-|3D reconstuction| 3.5 |[OpenCV](https://opencv.org/) | link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
-|Filters| 3.6 |convolutionfilters| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|3D reconstuction| 3.5 |[OpenCV](https://opencv.org/) | link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ukGKzoTOITXs9gH3df2nyBytxW2jNkgZ?usp=sharing)|
+|Filters| 3.6 |convolutionfilters| link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1phtG4LOivvJd7AZbpZnBXECn8hmCyScy?usp=sharing)|
 |image classification <br> classification evaluation <br> motion tracking| 4.1  |PyTorch <br> accuracy,... <br> PoseNet | link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 |semantic image segmentation| 4.2 | [OpenCV](https://opencv.org/) | link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 |object identification <br> object tracking| 4.3 | [R-CNN]() | link to file| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
