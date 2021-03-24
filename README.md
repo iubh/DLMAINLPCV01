@@ -2,7 +2,7 @@
 NLP and Computer Vision (DEV)
 ===
 
-This repository represents notebooks for **N**atural **L**anguage **P**rocessing (NLP) and **C**omputer **V**istion.
+This repository represents notebooks for **N**atural **L**anguage **P**rocessing (NLP) and **C**omputer **V**ision.
 As addition to the script  "Computer Vision and NLP" and some mentioned topics, basic samples to can be found in this repository. Following tabel gives an overview about the available notebooks.
 
 Table of content
