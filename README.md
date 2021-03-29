@@ -26,7 +26,7 @@ Table of content
 
 |task | chapter |  library | notebook|     |
 |-----|---------|----------|---------|-----|
-|basic samples| 3 | [OpenCV](https://opencv.org/)| [notebooks](notebooks/cv_1_basic_commands.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ItoJfGH4nBWyZZ8sprArej9yG3wYd9y2?usp=sharing)|
+|basic samples| 3 | [OpenCV](https://opencv.org/)| [notebooks](notebooks/cv_basic_commands.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ItoJfGH4nBWyZZ8sprArej9yG3wYd9y2?usp=sharing)|
 |camera calibration| 3.4 |[OpenCV](https://opencv.org/)| [notebook](notebooks/cv_3-4__camera_calibration.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pKd4HptFHu1v87jkonqeCRM9nNmbiPpU?usp=sharing)|
 |3D reconstuction| 3.5 |[OpenCV](https://opencv.org/) | [notebook](notebooks/cv_3-5_3D_reconstruction.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ukGKzoTOITXs9gH3df2nyBytxW2jNkgZ?usp=sharing)|
 |Filters| 3.6 |[OpenCV](https://opencv.org/)| [notebook](notebooks/cv_3-6_convolution_filters_OpenCV.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ofeRCrlY76Ef4wObfdrJe3_LxtSB51nf?usp=sharing)|
