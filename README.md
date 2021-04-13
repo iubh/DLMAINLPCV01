@@ -11,7 +11,7 @@ Table of content
 
 |task | chapter |  library | notebook|     |
 |-----|---------|----------|---------|-----|
-|Regular Expressions| 1.2 | [spaCy](https://spacy.io/)| [notebook](notebooks/nlp_1p2_regexp.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UO0zE0laP3Xseqw-VE-_aqMz0EUPsTEJ?usp=sharing)|
+|Regular Expressions| 1.2 | [spaCy](https://spacy.io/)| [notebook](notebooks/nlp_1p2_regexp.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xJE2Y87xxYB8injwcIOovAq2JqclgkLU?usp=sharing)|
 |Bag of Words| 1.3 | ***python*** | [notebook](notebooks/nlp_1-3_bag_of_words.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C6ywUbTmqKCGgR7mg66Sn546FGS7zpQ-?usp=sharing)|
 |Word Vectors| 1.3 | ***python*** | [notebook](notebooks/nlp_1-3_word_vectors.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E2XfrnQMfc4dpw2GpzqgfV5EHLYIRPL5?usp=sharing)|
 |Word Sense Disambiguation| 1.5 | [nltk](https://www.nltk.org/)| [notebook](notebooks/nlp_1-5_word_sense_disambiguation.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d-mtm2hpSY0gA-NmVROStmcdJECOxLW0?usp=sharing)|
