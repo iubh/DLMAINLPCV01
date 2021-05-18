@@ -1,5 +1,5 @@
 # DLMAINLPCV01
-NLP and Computer Vision (DEV)
+NLP and Computer Vision
 ===
 
 This repository represents notebooks for **N**atural **L**anguage **P**rocessing (NLP) and **C**omputer **V**ision as addition to the course book  "NLP and Computer Vision".<br> Following table gives an overview about the available notebooks.
