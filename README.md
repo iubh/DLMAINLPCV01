@@ -1,9 +1,9 @@
-# DLMAINLPCV01_DEV
+# DLMAINLPCV01
 NLP and Computer Vision (DEV)
 ===
 
-This repository represents notebooks for **N**atural **L**anguage **P**rocessing (NLP) and **C**omputer **V**ision.
-As addition to the script  "Computer Vision and NLP" and some mentioned topics, basic samples to can be found in this repository. Following tabel gives an overview about the available notebooks.
+This repository represents notebooks for **N**atural **L**anguage **P**rocessing (NLP) and **C**omputer **V**ision as addition to the course book  "NLP and Computer Vision".<br> Following table gives an overview about the available notebooks.
+The notebooks can be explored in a google [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index) environment.
 
 Table of content
 ---
@@ -26,7 +26,7 @@ Table of content
 
 |task | chapter |  library | notebook|     |
 |-----|---------|----------|---------|-----|
-|Basic Examples| 3 | [OpenCV](https://opencv.org/)| [notebooks](notebooks/cv_basic_commands.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/cv_basic_commands.ipynb)| 
+|Basic Commands With OpenCV| 3 | [OpenCV](https://opencv.org/)| [notebooks](notebooks/cv_basic_commands.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/cv_basic_commands.ipynb)| 
 |Camera Calibration| 3.4 |[OpenCV](https://opencv.org/)| [notebook](notebooks/cv_3-4__camera_calibration.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/cv_3-4__camera_calibration.ipynb)|
 |3D Reconstuction| 3.5 |[OpenCV](https://opencv.org/) | [notebook](notebooks/cv_3-5_3D_reconstruction.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/cv_3-5_3D_reconstruction.ipynb)|
 |Filters| 3.6 |[OpenCV](https://opencv.org/)| [notebook](notebooks/cv_3-6_convolution_filters_OpenCV.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iubh/DLMAINLPCV01/blob/master/notebooks/cv_3-6_convolution_filters_OpenCV.ipynb)|
